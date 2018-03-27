@@ -126,9 +126,7 @@
     ],
     "component-selector": [
       true,
-      "element",
-      "app",
-      "kebab-case"
+      "element"
     ],
     "angular-whitespace": [true, "check-interpolation"],
     "no-output-on-prefix": true,
@@ -143,3 +141,5 @@
     "directive-class-suffix": true
   }
 }
+
+//"kebab-case: from component-selector"
