@@ -120,9 +120,7 @@
     ],
     "directive-selector": [
       true,
-      "attribute",
-      "app",
-      "camelCase"
+      "attribute"
     ],
     "component-selector": [
       true,
@@ -142,4 +140,4 @@
   }
 }
 
-//"kebab-case: from component-selector"
+// "kebab-case: from component-selector"
